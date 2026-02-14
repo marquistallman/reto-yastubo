@@ -1,0 +1,21 @@
+# Directorios de Git
+.git
+.gitignore
+
+# Entornos virtuales de Python (muy importante ignorarlos)
+venv
+.venv
+env
+
+# Bytecode y caché de Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de Docker
+Dockerfile
+.dockerignore
+
+# Archivos de entorno local (claves secretas)
+.env
